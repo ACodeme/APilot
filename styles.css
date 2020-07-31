@@ -1,0 +1,160 @@
+body {
+  font-family: 'Montserrat';
+}
+
+#title {
+  background-color: #1eb2a6;
+  color: #481380;
+  padding-bottom: 22px
+}
+
+.container-fluid {
+  padding: 5% 15%;
+}
+h1 {
+  font-family: 'Montserrat-Black';
+  font-weight: 900;
+  font-size: 3.8rem;
+  line-height: 1.5;
+}
+.towide{
+    transform: rotate(22deg);
+    position: absolute;
+    left: 15%;
+    padding-top: 20px;
+}
+
+/* Navigation Bar  */
+
+.navbar {
+  padding: 0 0 3rem;
+}
+
+
+.navbar-brand {
+  font-family: "Ubuntu-Condence";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-family: "Montserrat-light";
+}
+
+.download {
+  margin: 5% 3% 5% 0;
+}
+
+.move {
+  padding-left: 25px;
+}
+
+
+#body-1 {
+  padding: 7% 10%;
+  background-color: #f6da63;
+  position: relative;
+
+}
+.featuer-box {
+  text-align: center;
+  padding: 3%;
+}
+.lobster{
+  font-family: "Lobster";
+}
+p {
+  font-family: "Montserrat-light";
+  color: #706c61;
+}
+.size {
+  color:  #46185f;
+margin-bottom: 0.5rem;
+}
+.size:hover {
+  color: #481380;
+  image-resolution: 1000px;
+}
+h2 {
+  font-family: 'Rubik';
+  font-size: 45px;
+  color: #481380;
+}
+.who {
+  font-weight: 100;
+}
+#slide-review {
+  background-color: #1eb2a6;
+    padding: 5% 10%;
+  text-align: center;
+}
+.img {
+    width: 100px;
+    height: 120px;
+    margin-bottom: 10px;
+    border-radius: 100%;
+    filter: blur(12px);
+}
+.img:hover{
+  width: 120px;
+  height: 140px;
+}
+em {
+  font-family: "Montserrat-light";
+  color: #706c61;
+  position: relative;
+  top: 20px;
+}
+.carousel-item {
+  padding: 4% 10%;
+}
+.award {
+  width: 100%;
+  height: 100%;
+}
+.show {
+  padding-top: 15px;
+}
+#book {
+  background-color: #f6da63;
+  padding: 80px;
+
+}
+.h2 {
+  font-family: 'Rubik';
+  font-size: 45px;
+  color: #8cba51;
+}
+.h3 {
+  font-family: 'Rubik';
+  font-size: 45px;
+  color: #222831;
+}
+#pricing {
+  padding: 100px
+}
+h1 {
+  font-family: 'Montserrat-Black';
+  font-weight: 900;
+  font-size: 3.8rem;
+  line-height: 1.5;
+  color: #481380;
+}
+.pricing-col {
+  padding: 3% 1%;
+}
+#bye{
+  background-color: #838383;
+  padding-bottom: 1px;
+}
+.final{
+  padding: 5px;
+  padding-left: 6px;
+  position: relative;
+  bottom: 30px;
+}
